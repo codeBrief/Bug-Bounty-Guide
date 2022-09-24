@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Sublist3r",
+    "github_repo": "https://github.com/aboul3la/Sublist3r",
+    "author": "aboul3la",
+    "description": "Fast subdomains enumeration tool for penetration testers",
+    "img": ""  
+  },
+  {
+    "id": "2",
+    "name": "Amass",
+    "github_repo": "https://github.com/OWASP/Amass",
+    "author": "OWASP",
+    "description": "In-depth Attack Surface Mapping and Asset Discovery",
+    "img": ""    
+  },
+  {
+    "id": "3",
+    "name": "Massdns",
+    "github_repo": "https://github.com/blechschmidt/massdns",
+    "author": "blechschmidt",
+    "description": " A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)",
+    "img": ""  
+  },
+  {
+    "id": "4",
+    "name": "Findomain",
+    "github_repo": "https://github.com/Findomain/Findomain",
+    "author": "Findomain",
+    "description": "The fastest and cross-platform subdomain enumerator, do not waste your time.",
+    "img": ""  
+  },
+  {
+    "id": "5",
+    "name": "Sudomy",
+    "github_repo": "https://github.com/Screetsec/Sudomy",
+    "author": "Screetsec",
+    "description": " Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
+    "img": ""  
+  },
+  {
+    "id": "6",
+    "name": "chaos-client",
+    "github_repo": "https://github.com/projectdiscovery/chaos-client",
+    "author": "projectdiscovery",
+    "description": "Go client to communicate with Chaos DNS API.",
+    "img": ""  
+  },
+  {
+    "id": "7",
+    "name": "domained",
+    "github_repo": "https://github.com/TypeError/domained",
+    "author": "TypeError",
+    "description": "Multi Tool Subdomain Enumeration",
+    "img": ""  
+  },
+  {
+    "id": "8",
+    "name": "bugcrowd-levelup-subdomain-enumeration",
+    "github_repo": "https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration",
+    "author": "appsecco",
+    "description": "This repository contains all the material from the talk 'Esoteric sub-domain enumeration techniques' given at Bugcrowd LevelUp 2017 virtual conference",
+    "img": ""  
+  },
+  {
+    "id": "9",
+    "name": "shuffledns",
+    "github_repo": "https://github.com/projectdiscovery/shuffledns",
+    "author": "projectdiscovery",
+    "description": "shuffleDNS is a wrapper around massdns written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output…",
+    "img": ""  
+  },
+  {
+    "id": "10",
+    "name": "censys-subdomain-finder",
+    "github_repo": "https://github.com/christophetd/censys-subdomain-finder",
+    "author": "christophetd",
+    "description": "Perform subdomain enumeration using the certificate transparency logs from Censys.",
+    "img": ""  
+  },
+  {
+    "id": "11",
+    "name": "Turbolist3r",
+    "github_repo": "https://github.com/fleetcaptain/Turbolist3r",
+    "author": "fleetcaptain",
+    "description": "Subdomain enumeration tool with analysis features for discovered domains",
+    "img": ""  
+  },
+  {
+    "id": "12",
+    "name": "censys-enumeration",
+    "github_repo": "https://github.com/0xbharath/censys-enumeration",
+    "author": "0xbharath",
+    "description": "A script to extract subdomains/emails for a given domain using SSL/TLS certificate dataset on Censys",
+    "img": ""  
+  },
+  {
+    "id": "13",
+    "name": "tugarecon",
+    "github_repo": "https://github.com/LordNeoStark/tugarecon",
+    "author": "LordNeoStark",
+    "description": "Fast subdomains enumeration tool for penetration testers.",
+    "img": ""  
+  },
+  {
+    "id": "14",
+    "name": "as3nt",
+    "github_repo": "ttps://github.com/cinerieus/as3nt",
+    "author": "cinerieus",
+    "description": " Another Subdomain ENumeration Tool",
+    "img": ""  
+  },
+  {
+    "id": "15",
+    "name": "Subra",
+    "github_repo": "https://github.com/si9int/Subra",
+    "author": "si9int",
+    "description": "A Web-UI for subdomain enumeration (subfinder)",
+    "img": ""  
+  },
+  {
+    "id": "16",
+    "name": "Substr3am",
+    "github_repo": "https://github.com/nexxai/Substr3am",
+    "author": "nexxai",
+    "description": "Passive reconnaissance/enumeration of interesting targets by watching for SSL certificates being issued",
+    "img": ""  
+  },
+  {
+    "id": "17",
+    "name": "domain",
+    "github_repo": "https://github.com/jhaddix/domain",
+    "author": "jhaddix",
+    "description": "numall.py Setup script for Regon-ng",
+    "img": ""  
+  },
+  {
+    "id": "18",
+    "name": "altdns",
+    "github_repo": "https://github.com/infosec-au/altdns",
+    "author": "infosec-au",
+    "description": "Generates permutations, alterations and mutations of subdomains and then resolves them",
+    "img": ""  
+  },
+  {
+    "id": "19",
+    "name": "brutesubs",
+    "github_repo": "https://github.com/anshumanbh/brutesubs",
+    "author": "anshumanbh",
+    "description": "An automation framework for running multiple open sourced subdomain bruteforcing tools (in parallel) using your own wordlists via Docker Compose",
+    "img": ""  
+  },
+  {
+    "id": "20",
+    "name": "dns-parallel-prober",
+    "github_repo": "https://github.com/lorenzog/dns-parallel-prober",
+    "author": "lorenzog",
+    "description": "his is a parallelised domain name prober to find as many subdomains of a given domain as fast as possible.",
+    "img": ""  
+  },
+  {
+    "id": "21",
+    "name": "dnscan",
+    "github_repo": "https://github.com/rbsec/dnscan",
+    "author": "rbsec",
+    "description": "dnscan is a python wordlist-based DNS subdomain scanner",
+    "img": ""  
+  },
+  {
+    "id": "22",
+    "name": "Knock",
+    "github_repo": "https://github.com/guelfoweb/knock",
+    "author": "guelfoweb",
+    "description": "Knockpy is a python tool designed to enumerate subdomains on a target domain through a wordlist",
+    "img": ""  
+  },
+  {
+    "id": "23",
+    "name": "hakrevdns",
+    "github_repo": "https://github.com/hakluke/hakrevdns",
+    "author": "hakluke",
+    "description": "Small, fast tool for performing reverse DNS lookups en masse.",
+    "img": ""  
+  },
+  {
+    "id": "24",
+    "name": "dnsx",
+    "github_repo": "https://github.com/projectdiscovery/dnsx",
+    "author": "projectdiscovery",
+    "description": "Dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.",
+    "img": ""  
+  },
+  {
+    "id": "25",
+    "name": "Subfinder",
+    "github_repo": "https://github.com/projectdiscovery/subfinder",
+    "author": "projectdiscovery",
+    "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites.",
+    "img": ""  
+  },
+  {
+    "id": "26",
+    "name": "Assetfinder",
+    "github_repo": "https://github.com/tomnomnom/assetfinder",
+    "author": "tomnomnom",
+    "description": "Find domains and subdomains related to a given domain",
+    "img": ""  
+  },
+  {
+    "id": "27",
+    "name": "crtndstry",
+    "github_repo": "https://github.com/nahamsec/crtndstry",
+    "author": "nahamsec",
+    "description": "Yet another subdomain finder",
+    "img": ""  
+  },
+  {
+    "id": "28",
+    "name": "VHostScan",
+    "github_repo": "https://github.com/codingo/VHostScan",
+    "author": "codingo",
+    "description": "A virtual host scanner that performs reverse lookups",
+    "img": ""  
+  },
+  {
+    "id": "29",
+    "name": "scilla",
+    "github_repo": "https://github.com/edoardottt/scilla",
+    "author": "edoardottt",
+    "description": "Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration",
+    "img": ""  
+  },
+  {
+    "id": "30",
+    "name": "sub3suite",
+    "github_repo": "https://github.com/3nock/sub3suite",
+    "author": "3nock",
+    "description": " A research-grade suite of tools for subdomain enumeration, intelligence gathering and attack surface mapping",
+    "img": ""  
+  }
+]

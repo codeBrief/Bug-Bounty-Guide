@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "subjack",
+    "github_repo": "https://github.com/haccer/subjack",
+    "author": "haccer",
+    "description": "Subdomain Takeover tool written in Go",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "SubOver",
+    "github_repo": "https://github.com/Ice3man543/SubOver",
+    "author": "Ice3man543",
+    "description": "A powerful subdomain takeover tool",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "autoSubTakeover",
+    "github_repo": "https://github.com/JordyZomer/autoSubTakeover",
+    "author": "JordyZomer",
+    "description": "A tool used to check if a CNAME resolves to the scope address. If the CNAME resolves to a non-scope address it might be worth checking out if subdomain takeover is possible",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "NSBrute",
+    "github_repo": "https://github.com/shivsahni/NSBrute",
+    "author": "shivsahni",
+    "description": "Python utility to takeover domains vulnerable to AWS NS Takeover",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "can-i-take-over-xyz",
+    "github_repo": "https://github.com/EdOverflow/can-i-take-over-xyz",
+    "author": "EdOverflow",
+    "description": "Can I take over XYZ? — a list of services and how to claim (sub)domains with dangling DNS records",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "cnames",
+    "github_repo": "https://github.com/cybercdh/cnames",
+    "author": "cybercdh",
+    "description": "take a list of resolved subdomains and output any corresponding CNAMES en masse",
+    "img": ""
+  },
+  {
+    "id": "7",
+    "name": "subHijack-master",
+    "github_repo": "https://github.com/vavkamil/old-repos-backup/tree/master/subHijack-master",
+    "author": "vavkamil",
+    "description": "Hijacking forgotten & misconfigured subdomains",
+    "img": ""
+  },
+  {
+    "id": "8",
+    "name": "tko-subs",
+    "github_repo": "https://github.com/anshumanbh/tko-subs",
+    "author": "anshumanbh",
+    "description": "A tool that can help detect and takeover subdomains with dead DNS records",
+    "img": ""
+  },
+  {
+    "id": "9",
+    "name": "HostileSubBruteforcer",
+    "github_repo": "https://github.com/nahamsec/HostileSubBruteforcer",
+    "author": "nahamsec",
+    "description": "This app will bruteforce for exisiting subdomains and provide information if the 3rd party host has been properly setup",
+    "img": ""
+  },
+  {
+    "id": "10",
+    "name": "second-order",
+    "github_repo": "https://github.com/mhmdiaa/second-order",
+    "author": "mhmdiaa",
+    "description": "Second-order subdomain takeover scanner",
+    "img": ""
+  },
+  {
+    "id": "11",
+    "name": "takeover",
+    "github_repo": "https://github.com/mzfr/takeover",
+    "author": "mzfr",
+    "description": "A tool for testing subdomain takeover possibilities at a mass scale",
+    "img": ""
+  }
+]

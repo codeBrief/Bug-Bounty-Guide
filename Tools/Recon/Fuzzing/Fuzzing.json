@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "name": "wfuzz",
+    "github_repo": "https://github.com/xmendez/wfuzz",
+    "author": "xmendez",
+    "description": "Web Application Fuzzer",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "ffuf",
+    "github_repo": "https://github.com/ffuf/ffuf",
+    "author": "ffuf",
+    "description": "Fast web fuzzer written in Go",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "fuzzdb",
+    "github_repo": "https://github.com/fuzzdb-project/fuzzdb",
+    "author": "fuzzdb-project",
+    "description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "IntruderPayloads",
+    "github_repo": "https://github.com/1N3/IntruderPayloads",
+    "author": "1N3",
+    "description": " A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "fuzz.txt",
+    "github_repo": "ttps://github.com/Bo0oM/fuzz.txt",
+    "author": "Bo0oM",
+    "description": "Potentially dangerous files",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "fuzzilli",
+    "github_repo": "https://github.com/googleprojectzero/fuzzilli",
+    "author": "googleprojectzero",
+    "description": "A JavaScript Engine Fuzzer",
+    "img": ""
+  },
+  {
+    "id": "7",
+    "name": "fuzzapi",
+    "github_repo": "https://github.com/Fuzzapi/fuzzapi",
+    "author": "Fuzzapi",
+    "description": "Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem",
+    "img": ""
+  },
+  {
+    "id": "8",
+    "name": "qsfuzz",
+    "github_repo": "https://github.com/ameenmaali/qsfuzz",
+    "author": "ameenmaali",
+    "description": "qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities",
+    "img": ""
+  },
+  {
+    "id": "9",
+    "name": "vaf",
+    "github_repo": "https://github.com/d4rckh/vaf",
+    "author": "d4rckh",
+    "description": "very advanced (web) fuzzer written in Nim",
+    "img": ""
+  }
+  
+]

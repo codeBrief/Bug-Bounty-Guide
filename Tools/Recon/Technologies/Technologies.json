@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Wappalyzer",
+    "github_repo": "https://github.com/AliasIO/wappalyzer",
+    "author": "AliasIO",
+    "description": "Identify technology on websites",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "Webanalyze",
+    "github_repo": "https://github.com/rverton/webanalyze",
+    "author": "rverton",
+    "description": "Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "python-builtwith",
+    "github_repo": "https://github.com/claymation/python-builtwith",
+    "author": "claymation",
+    "description": "BuiltWith API client",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "Whatweb",
+    "github_repo": "https://github.com/urbanadventurer/whatweb",
+    "author": "urbanadventurer",
+    "description": "Next generation web scanner",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "Retire.js",
+    "github_repo": "https://github.com/RetireJS/retire.js",
+    "author": "RetireJS",
+    "description": "scanner detecting the use of JavaScript libraries with known vulnerabilities",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "Httpx",
+    "github_repo": "https://github.com/projectdiscovery/httpx",
+    "author": "projectdiscovery",
+    "description": "httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads",
+    "img": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "GitTools",
+    "github_repo": "https://github.com/internetwache/GitTools",
+    "author": "internetwache",
+    "description": "A repository with 3 tools for pwn'ing websites with .git repositories available",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "gitjacker",
+    "github_repo": "https://github.com/liamg/gitjacker",
+    "author": "liamg",
+    "description": "Leak git repositories from misconfigured websites",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "git-dumper",
+    "github_repo": "https://github.com/arthaud/git-dumper",
+    "author": "arthaud",
+    "description": "A tool to dump a git repository from a website",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "GitHunter",
+    "github_repo": "https://github.com/digininja/GitHunter",
+    "author": "digininja",
+    "description": "A tool for searching a Git repository for interesting content",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "dvcs-ripper",
+    "github_repo": "https://github.com/kost/dvcs-ripper",
+    "author": "kost",
+    "description": " Rip web accessible (distributed) version control systems: SVN/GIT/HG...",
+    "img": ""
+  }
+]

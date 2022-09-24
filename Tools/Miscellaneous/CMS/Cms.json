@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "wpscan",
+    "github_repo": "https://github.com/wpscanteam/wpscan",
+    "author": "wpscanteam",
+    "description": "WPScan is a free, for non-commercial use, black box WordPress security scanner",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "WPSpider",
+    "github_repo": "https://github.com/cyc10n3/WPSpider",
+    "author": "cyc10n3",
+    "description": "A centralized dashboard for running and scheduling WordPress scans powered by wpscan utility",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "wprecon",
+    "github_repo": "https://github.com/blackcrw/wprecon",
+    "author": "blackcrw",
+    "description": "Wordpress recon",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "CMSmap",
+    "github_repo": "https://github.com/Dionach/CMSmap",
+    "author": "Dionach",
+    "description": "CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "joomscan",
+    "github_repo": "https://github.com/OWASP/joomscan",
+    "author": "OWASP",
+    "description": "OWASP Joomla Vulnerability Scanner Project",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "pyfiscan",
+    "github_repo": "https://github.com/fgeek/pyfiscan",
+    "author": "fgeek",
+    "description": "Free web-application vulnerability and version scanner",
+    "img": ""
+  }
+]

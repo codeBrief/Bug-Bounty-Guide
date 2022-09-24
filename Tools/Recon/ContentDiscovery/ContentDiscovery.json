@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Gobuster",
+    "github_repo": "https://github.com/OJ/gobuster",
+    "author": "OJ",
+    "description": "Directory/File, DNS and VHost busting tool written in Go",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "Recursebuster",
+    "github_repo": "https://github.com/C-Sto/recursebuster",
+    "author": "C-Sto",
+    "description": "rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "Feroxbuster",
+    "github_repo": "https://github.com/epi052/feroxbuster",
+    "author": "epi052",
+    "description": "A fast, simple, recursive content discovery tool written in Rust",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "Dirsearch",
+    "github_repo": "https://github.com/maurosoria/dirsearch",
+    "author": "maurosoria",
+    "description": "Web Path Scanner",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "Dirsearch-Go",
+    "github_repo": "https://github.com/evilsocket/dirsearch",
+    "author": "evilsocket",
+    "description": "A Go implementation of dirsearch.",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "Filebuster",
+    "github_repo": "https://github.com/henshin/filebuster",
+    "author": "henshin",
+    "description": "An extremely fast and flexible web fuzzer",
+    "img": ""
+  },
+  {
+    "id": "7",
+    "name": "Dirstalk",
+    "github_repo": "https://github.com/stefanoj3/dirstalk",
+    "author": "stefanoj3",
+    "description": "Modern alternative to dirbuster/dirb",
+    "img": ""
+  },
+  {
+    "id": "8",
+    "name": "dirbuster-ng",
+    "github_repo": "https://github.com/digination/dirbuster-ng",
+    "author": "digination",
+    "description": "dirbuster-ng is C CLI implementation of the Java dirbuster tool",
+    "img": ""
+  },
+  {
+    "id": "9",
+    "name": "Gospider",
+    "github_repo": "https://github.com/jaeles-project/gospider",
+    "author": "jaeles-project",
+    "description": "Gospider - Fast web spider written in Go",
+    "img": ""
+  },
+  {
+    "id": "10",
+    "name": "Hakrawler",
+    "github_repo": "https://github.com/hakluke/hakrawler",
+    "author": "hakluke",
+    "description": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+    "img": ""
+  }
+  
+]

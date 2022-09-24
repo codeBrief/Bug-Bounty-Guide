@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Parameth",
+    "github_repo": "https://github.com/maK-/parameth",
+    "author": "maK-",
+    "description": "This tool can be used to brute discover GET and POST parameters",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "param-miner",
+    "github_repo": "https://github.com/PortSwigger/param-miner",
+    "author": "PortSwigger",
+    "description": "This extension identifies hidden, unlinked parameters",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "ParamPamPam",
+    "github_repo": "https://github.com/Bo0oM/ParamPamPam",
+    "author": "Bo0oM",
+    "description": "This tool for brute discover GET and POST parameters",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "Arjun",
+    "github_repo": "https://github.com/s0md3v/Arjun",
+    "author": "s0md3v",
+    "description": "HTTP parameter discovery suite",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "ParamSpider",
+    "github_repo": "https://github.com/devanshbatham/ParamSpider",
+    "author": "devanshbatham",
+    "description": "Mining parameters from dark corners of Web Archives",
+    "img": ""
+  }
+]

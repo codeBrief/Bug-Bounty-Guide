@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1",
+    "name": "Nuclei",
+    "github_repo": "https://github.com/projectdiscovery/nuclei",
+    "author": "projectdiscovery",
+    "description": " Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "Sn1per",
+    "github_repo": "https://github.com/1N3/Sn1per",
+    "author": "1N3",
+    "description": "Automated pentest framework for offensive security experts",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "metasploit-framework",
+    "github_repo": "https://github.com/rapid7/metasploit-framework",
+    "author": "rapid7",
+    "description": "Metasploit can do all sorts of things.",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "Nikto",
+    "github_repo": "https://github.com/sullo/nikto",
+    "author": "sullo",
+    "description": "Nikto web server scanner",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "arachni",
+    "github_repo": "https://github.com/Arachni/arachni",
+    "author": "Arachni",
+    "description": "Web Application Security Scanner Framework",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "jaeles",
+    "github_repo": "https://github.com/jaeles-project/jaeles",
+    "author": "jaeles-project",
+    "description": "The Swiss Army knife for automated Web Application Testing",
+    "img": ""
+  },
+  {
+    "id": "7",
+    "name": "retire",
+    "github_repo": "https://github.com/RetireJS/retire.js",
+    "author": "RetireJS",
+    "description": "scanner detecting the use of JavaScript libraries with known vulnerabilities",
+    "img": ""
+  },
+  {
+    "id": "8",
+    "name": "Osmedeus",
+    "github_repo": "https://github.com/j3ssie/Osmedeus",
+    "author": "j3ssie",
+    "description": "Fully automated offensive security framework for reconnaissance and vulnerability scanning",
+    "img": ""
+  },
+  {
+    "id": "9",
+    "name": "getsploit",
+    "github_repo": "https://github.com/vulnersCom/getsploit",
+    "author": "vulnersCom",
+    "description": "Command line utility for searching and downloading exploits",
+    "img": ""
+  },
+  {
+    "id": "10",
+    "name": "flan",
+    "github_repo": "https://github.com/cloudflare/flan",
+    "author": "cloudflare",
+    "description": "A pretty sweet vulnerability scanner",
+    "img": ""
+  },
+  {
+    "id": "11",
+    "name": "Findsploit",
+    "github_repo": "https://github.com/1N3/Findsploit",
+    "author": "1N3",
+    "description": "Find exploits in local and online databases instantly",
+    "img": ""
+  },
+  {
+    "id": "12",
+    "name": "BlackWidow",
+    "github_repo": "https://github.com/1N3/BlackWidow",
+    "author": "1N3",
+    "description": "A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website",
+    "img": ""
+  },
+  {
+    "id": "13",
+    "name": "backslash-powered-scanner",
+    "github_repo": "https://github.com/PortSwigger/backslash-powered-scanner",
+    "author": "PortSwigger",
+    "description": "Finds unknown classes of injection vulnerabilities",
+    "img": ""
+  },
+  {
+    "id": "14",
+    "name": "Eagle",
+    "github_repo": "https://github.com/BitTheByte/Eagle",
+    "author": "BitTheByte",
+    "description": "Multithreaded Plugin based vulnerability scanner for mass detection of web-based applications vulnerabilities",
+    "img": ""
+  },
+  {
+    "id": "15",
+    "name": "cariddi",
+    "github_repo": "https://github.com/edoardottt/cariddi",
+    "author": "edoardottt",
+    "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+    "img": ""
+  }
+  
+]

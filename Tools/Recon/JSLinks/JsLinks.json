@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "LinkFinder",
+    "github_repo": "https://github.com/GerbenJavado/LinkFinder",
+    "author": "GerbenJavado",
+    "description": "A python script that finds endpoints in JavaScript files",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "JS-Scan",
+    "github_repo": "https://github.com/zseano/JS-Scan",
+    "author": "zseano",
+    "description": "a .js scanner, built in php. designed to scrape urls and other info",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "LinksDumper",
+    "github_repo": "https://github.com/arbazkiraak/LinksDumper",
+    "author": "arbazkiraak",
+    "description": "Extract (links/possible endpoints) from responses & filter them via decoding/sorting",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "GoLinkFinder",
+    "github_repo": "https://github.com/0xsha/GoLinkFinder",
+    "author": "0xsha",
+    "description": "A fast and minimal JS endpoint extractor",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "BurpJSLinkFinder",
+    "github_repo": "https://github.com/InitRoot/BurpJSLinkFinder",
+    "author": "InitRoot",
+    "description": "Burp Extension for a passive scanning JS files for endpoint links",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "Urlgrab",
+    "github_repo": "https://github.com/IAmStoxe/urlgrab",
+    "author": "IAmStoxe",
+    "description": "A golang utility to spider through a website searching for additional links",
+    "img": ""
+  },
+  {
+    "id": "7",
+    "name": "Waybackurls",
+    "github_repo": "https://github.com/tomnomnom/waybackurls",
+    "author": "tomnomnom",
+    "description": "Fetch all the URLs that the Wayback Machine knows about for a domain",
+    "img": ""
+  },
+  {
+    "id": "8",
+    "name": "Gau",
+    "github_repo": "https://github.com/lc/gau",
+    "author": "lc",
+    "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl",
+    "img": ""
+  },
+  {
+    "id": "9",
+    "name": "getJS",
+    "github_repo": "https://github.com/003random/getJS",
+    "author": "003random",
+    "description": "A tool to fastly get all javascript sources/files",
+    "img": ""
+  },
+  {
+    "id": "10",
+    "name": "linx",
+    "github_repo": "https://github.com/riza/linx",
+    "author": "riza",
+    "description": "Reveals invisible links within JavaScript files",
+    "img": ""
+  }
+  
+]

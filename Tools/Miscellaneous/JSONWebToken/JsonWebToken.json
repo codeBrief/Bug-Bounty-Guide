@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "jwt_tool",
+    "github_repo": "https://github.com/ticarpi/jwt_tool",
+    "author": "ticarpi",
+    "description": "A toolkit for testing, tweaking and cracking JSON Web Tokens",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "c-jwt-cracker",
+    "github_repo": "https://github.com/brendan-rius/c-jwt-cracker",
+    "author": "brendan-rius",
+    "description": "JWT brute force cracker written in C",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "jwt-heartbreaker",
+    "github_repo": "https://github.com/wallarm/jwt-heartbreaker",
+    "author": "wallarm",
+    "description": "The Burp extension to check JWT (JSON Web Tokens) for using keys from known from public sources",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "jwtear",
+    "github_repo": "https://github.com/KINGSABRI/jwtear",
+    "author": "KINGSABRI",
+    "description": "Modular command-line tool to parse, create and manipulate JWT tokens for hackers",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "jwt-key-id-injector",
+    "github_repo": "https://github.com/dariusztytko/jwt-key-id-injector",
+    "author": "dariusztytko",
+    "description": "Simple python script to check against hypothetical JWT vulnerability",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "jwt-hack",
+    "github_repo": "https://github.com/hahwul/jwt-hack",
+    "author": "hahwul",
+    "description": "jwt-hack is tool for hacking / security testing to JWT",
+    "img": ""
+  },
+  {
+    "id": "7",
+    "name": "jwt-cracker",
+    "github_repo": "https://github.com/lmammino/jwt-cracker",
+    "author": "lmammino",
+    "description": "Simple HS256 JWT token brute force cracker",
+    "img": ""
+  }
+]

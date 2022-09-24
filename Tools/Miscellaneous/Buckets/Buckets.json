@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "name": "S3Scanner",
+    "github_repo": "https://github.com/sa7mon/S3Scanner",
+    "author": "sa7mon",
+    "description": "Scan for open AWS S3 buckets and dump the contents",
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "AWSBucketDump",
+    "github_repo": "https://github.com/jordanpotti/AWSBucketDump",
+    "author": "jordanpotti",
+    "description": "Security Tool to Look For Interesting Files in S3 Buckets",
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "CloudScraper",
+    "github_repo": "https://github.com/jordanpotti/CloudScraper",
+    "author": "jordanpotti",
+    "description": "CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space",
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "s3viewer",
+    "github_repo": "https://github.com/SharonBrizinov/s3viewer",
+    "author": "SharonBrizinov",
+    "description": "Publicly Open Amazon AWS S3 Bucket Viewer",
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "festin",
+    "github_repo": "https://github.com/cr0hn/festin",
+    "author": "cr0hn",
+    "description": "FestIn - S3 Bucket Weakness Discovery",
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "s3reverse",
+    "github_repo": "https://github.com/hahwul/s3reverse",
+    "author": "hahwul",
+    "description": "The format of various s3 buckets is convert in one format. for bugbounty and security testing",
+    "img": ""
+  },
+  {
+    "id": "7",
+    "name": "mass-s3-bucket-tester",
+    "github_repo": "https://github.com/random-robbie/mass-s3-bucket-tester",
+    "author": "random-robbie",
+    "description": "This tests a list of s3 buckets to see if they have dir listings enabled or if they are uploadable",
+    "img": ""
+  },
+  {
+    "id": "8",
+    "name": "S3BucketList",
+    "github_repo": "https://github.com/AlecBlance/S3BucketList",
+    "author": "AlecBlance",
+    "description": "Firefox plugin that lists Amazon S3 Buckets found in requests",
+    "img": ""
+  },
+  {
+    "id": "9",
+    "name": "cybercdh",
+    "github_repo": "https://github.com/cybercdh/dirlstr",
+    "author": "dirlstr",
+    "description": "Finds Directory Listings or open S3 buckets from a list of URLs",
+    "img": ""
+  },
+  {
+    "id": "10",
+    "name": "Burp-AnonymousCloud",
+    "github_repo": "https://github.com/codewatchorg/Burp-AnonymousCloud",
+    "author": "codewatchorg",
+    "description": "Burp extension that performs a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities",
+    "img": ""
+  },
+  {
+    "id": "11",
+    "name": "kicks3",
+    "github_repo": "https://github.com/abuvanth/kicks3",
+    "author": "abuvanth",
+    "description": "S3 bucket finder from html,js and bucket misconfiguration testing tool",
+    "img": ""
+  },
+  {
+    "id": "12",
+    "name": "2tearsinabucket",
+    "github_repo": "https://github.com/Revenant40/2tearsinabucket",
+    "author": "Revenant40",
+    "description": "Enumerate s3 buckets for a specific target",
+    "img": ""
+  },
+  {
+    "id": "13",
+    "name": "s3_objects_check",
+    "github_repo": "https://github.com/nccgroup/s3_objects_check",
+    "author": "nccgroup",
+    "description": "Whitebox evaluation of effective S3 object permissions, to identify publicly accessible files",
+    "img": ""
+  },
+  {
+    "id": "14",
+    "name": "s3tk",
+    "github_repo": "https://github.com/ankane/s3tk",
+    "author": "ankane",
+    "description": "A security toolkit for Amazon S3",
+    "img": ""
+  },
+  {
+    "id": "15",
+    "name": "CloudBrute",
+    "github_repo": "https://github.com/0xsha/CloudBrute",
+    "author": "0xsha",
+    "description": "Awesome cloud enumerator",
+    "img": ""
+  },
+  {
+    "id": "16",
+    "name": "s3cario",
+    "github_repo": "https://github.com/0xspade/s3cario",
+    "author": "0xspade",
+    "description": "This tool will get the CNAME first if it's a valid Amazon s3 bucket and if it's not, it will try to check if the domain is a bucket name.",
+    "img": ""
+  },
+  {
+    "id": "17",
+    "name": "S3Cruze",
+    "github_repo": "https://github.com/JR0ch17/S3Cruze",
+    "author": "JR0ch17",
+    "description": "All-in-one AWS S3 bucket tool for pentesters",
+    "img": ""
+  }
+]
