@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "name": "Amass",  
     "githubrepo": "https://github.com/OWASP/Amass",
@@ -348,4 +347,3 @@
     "githubrepo": "https://github.com/detectify/page-fetch",
     "author": "DETECTIFY"
   }
-]
