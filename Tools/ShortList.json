@@ -4,35 +4,35 @@
     "name": "Amass",  
     "githubrepo": "https://github.com/OWASP/Amass",
     "author": "OWASP",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 2, 
     "name": "Anew",  
     "githubrepo": "https://github.com/tomnomnom/anew",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 3,
     "name": "Anti-burl",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/anti-burl",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 4,
     "name": "Assetfinder",
     "githubrepo": "https://github.com/tomnomnom/assetfinder",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 5,
     "name": "Airixss",
     "githubrepo": "https://github.com/ferreiraklet/airixss",
     "author": "FERREIRAKLET",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 6,
@@ -40,370 +40,370 @@
     "githubrepo": "https://github.com/pry0cc/axiom",
     "urlToImg":"",
     "author": "PRY0CC",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 7,
     "name": "Bhedak",
     "githubrepo": "https://github.com/R0X4R/bhedak",
     "author": "R0X4R",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 8,
     "name": "CF-check",
     "githubrepo": "https://github.com/dwisiswant0/cf-check",
     "author": "DWISISWANT0",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 9,
     "name": "Chaos", 
     "githubrepo": "https://github.com/projectdiscovery/chaos-client",
     "author": "PROJECTDISCOVERY",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 10,
     "name": "Cariddi",
     "githubrepo": "https://github.com/edoardottt/cariddi",
     "author": "EDOARDOTTT",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 11,
     "name": "Dalfox",
     "githubrepo": "https://github.com/hahwul/dalfox",
     "author": "HAHWUL",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 12,
     "name": "DNSgen",
     "githubrepo": "https://github.com/ProjectAnte/dnsgen",
     "author": "PROJECTANTE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 13,
     "name": "Filter-resolved",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/filter-resolved",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 14,
     "name": "Findomain",
     "githubrepo": "https://github.com/Edu4rdSHL/findomain",
     "author": "EDU4RDSHL",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 15,
     "name": "Fuff",
     "githubrepo": "https://github.com/ffuf/ffuf",
     "author": "ffuf",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 16,
     "name": "Freq",
     "githubrepo": "https://github.com/takshal/freq",
     "author": "TAKSHAL",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 17,
     "name": "Gargs",
     "githubrepo": "https://github.com/brentp/gargs",
     "author": "BRENTP",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 18,
     "name": "Gau",
     "githubrepo": "https://github.com/lc/gau",
     "author": "LC",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 19,
     "name": "Gf",
     "githubrepo": "https://github.com/tomnomnom/gf",
     "author": "tomnomnom",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 20,
     "name": "Github-Search",
     "githubrepo": "https://github.com/gwen001/github-search",
     "author": "GWEN001",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 21,
     "name": "Gospider",
     "githubrepo": "https://github.com/jaeles-project/gospider",
     "author": "JAELES-PROJECT",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 22,
     "name": "Gowitness",
     "githubrepo": "https://github.com/sensepost/gowitness",
     "author": "SENSEPOST",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 23,
     "name": "Goop",
     "githubrepo": "https://github.com/deletescape/goop",
     "author": "DELETESCAPE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 24,
     "name": "GetJS",
     "githubrepo": "https://github.com/003random/getJS",
     "author": "003RANDOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 25,
     "name": "Hakrawler",
     "githubrepo": "https://github.com/hakluke/hakrawler",
     "author": "HAKLUKE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 26,
     "name": "HakrevDNS",
     "githubrepo": "https://github.com/hakluke/hakrevdns",
     "author": "HAKLUKE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 27,
     "name": "Haktldextract",
     "githubrepo": "https://github.com/hakluke/haktldextract",
     "author": "HAKLUKE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 28,
     "name": "Haklistgen",
     "githubrepo": "https://github.com/hakluke/haklistgen",
     "author": "HAKLUKE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 29,
     "name": "Html-tool",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/html-tool",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 30,
     "name": "Httpx",
     "githubrepo": "https://github.com/projectdiscovery/httpx",
     "author": "PROJECTDISCOVERY",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 31,
     "name": "Jaeles",
     "githubrepo": "https://github.com/jaeles-project/jaeles",
     "author": "JAELES-PROJECT",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 32,
     "name": "Jsubfinder",
     "githubrepo": "https://github.com/ThreatUnkown/jsubfinder",
     "author": "THREATUNKOWN",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 33,
     "name": "Kxss",
     "githubrepo": "https://github.com/Emoe/kxss",
     "author": "EMOE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 34,
     "name": "Knoxss",
     "githubrepo": "https://knoxss.me/",
     "author": "KNOXSSME",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 34,
     "name": "LinkFinder",
     "githubrepo": "https://github.com/GerbenJavado/LinkFinder",
     "author": "GERBENJAVADO",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 35,
     "name": "log4j-scan",
     "githubrepo": "https://github.com/fullhunt/log4j-scan",
     "author": "FULLHUNT",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 36,
     "name": "Metabigor",
     "githubrepo": "https://github.com/j3ssie/metabigor",
     "author": "J3SSIE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 37,
     "name": "MassDNS",
     "githubrepo": "https://github.com/blechschmidt/massdns",
     "author": "BLECHSCHMIDT",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 38,
     "name": "Naabu",
     "githubrepo": "https://github.com/projectdiscovery/naabu",
     "author": "PROJECTDISCOVERY",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 39,
     "name": "Notify",
     "githubrepo": "https://github.com/projectdiscovery/notify",
     "author": "PROJECTDISCOVERY",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 40,
     "name": "Paramspider",
     "githubrepo": "https://github.com/devanshbatham/ParamSpider",
     "author": "DEVANSHBATHAM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 41,
     "name": "Qsreplace",
     "githubrepo": "https://github.com/tomnomnom/qsreplace",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 42,
     "name": "Rush",
     "githubrepo": "https://github.com/shenwei356/rush",
     "author": "SHENWEI356",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 43,
     "name": "SecretFinder",
     "githubrepo": "https://github.com/m4ll0k/SecretFinder",
     "author": "M4LL0k",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 44,
     "name": "Shodan",
     "githubrepo": "https://help.shodan.io/command-line-interface/0-installation",
     "author": "SHODAN",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 45,
     "name": "ShuffleDNS",
     "githubrepo": "https://github.com/projectdiscovery/shuffledns",
     "author": "PROJECTDISCOVERY",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 46,
     "name": "SQLMap",
     "githubrepo": "https://github.com/sqlmapproject/sqlmap",
     "author": "SQLMAP-PROJECT",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 47,
     "name": "SubJS",
     "githubrepo": "https://github.com/lc/subjs",
     "author": "LC",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 48,
     "name": "Unew",
     "githubrepo": "https://github.com/dwisiswant0/unew",
     "author": "DWISISWANT0",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 49,
     "name": "Unfurl",
     "githubrepo": "https://github.com/tomnomnom/unfurl",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 50,
     "name": "Urldedupe",
     "githubrepo": "https://github.com/ameenmaali/urldedupe",
     "author": "AMEENMAALI",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 51,
     "name": "WaybackURLs",
     "githubrepo": "https://github.com/tomnomnom/waybackurls",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 52,
     "name": "Wingman",
     "githubrepo": "https://xsswingman.com/#faq",
     "author": "XSSWINGMAN",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 53,
     "name": "Goop",
     "githubrepo": "https://github.com/deletescape/goop",
     "author": "DELETESCAPE",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 54,
     "name": "Tojson",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/tojson",
     "author": "TOMNOMNOM",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 55,
     "name": "X8",
     "githubrepo": "https://github.com/Sh1Yo/x8",
     "author": "SH1YO",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 56,
     "name": "XSStrike",
     "githubrepo": "https://github.com/s0md3v/XSStrike",
     "author": "S0MD3v",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
 },
   {
     "id": 57,
     "name": "Page-fetch",
     "githubrepo": "https://github.com/detectify/page-fetch",
     "author": "DETECTIFY",
-"img" :"https://github.com/SoufianeAmed/Bug-Bounty-Guide/blob/main/tools_images/osmidieus.png"
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
   }
 ]
