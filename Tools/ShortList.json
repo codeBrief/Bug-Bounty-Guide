@@ -4,35 +4,35 @@
     "name": "Amass",  
     "githubrepo": "https://github.com/OWASP/Amass",
     "author": "OWASP",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 2, 
     "name": "Anew",  
     "githubrepo": "https://github.com/tomnomnom/anew",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 3,
     "name": "Anti-burl",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/anti-burl",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 4,
     "name": "Assetfinder",
     "githubrepo": "https://github.com/tomnomnom/assetfinder",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 5,
     "name": "Airixss",
     "githubrepo": "https://github.com/ferreiraklet/airixss",
     "author": "FERREIRAKLET",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 6,
@@ -40,370 +40,370 @@
     "githubrepo": "https://github.com/pry0cc/axiom",
     "urlToImg":"",
     "author": "PRY0CC",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 7,
     "name": "Bhedak",
     "githubrepo": "https://github.com/R0X4R/bhedak",
     "author": "R0X4R",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 8,
     "name": "CF-check",
     "githubrepo": "https://github.com/dwisiswant0/cf-check",
     "author": "DWISISWANT0",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 9,
     "name": "Chaos", 
     "githubrepo": "https://github.com/projectdiscovery/chaos-client",
     "author": "PROJECTDISCOVERY",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 10,
     "name": "Cariddi",
     "githubrepo": "https://github.com/edoardottt/cariddi",
     "author": "EDOARDOTTT",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 11,
     "name": "Dalfox",
     "githubrepo": "https://github.com/hahwul/dalfox",
     "author": "HAHWUL",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 12,
     "name": "DNSgen",
     "githubrepo": "https://github.com/ProjectAnte/dnsgen",
     "author": "PROJECTANTE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 13,
     "name": "Filter-resolved",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/filter-resolved",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 14,
     "name": "Findomain",
     "githubrepo": "https://github.com/Edu4rdSHL/findomain",
     "author": "EDU4RDSHL",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 15,
     "name": "Fuff",
     "githubrepo": "https://github.com/ffuf/ffuf",
     "author": "ffuf",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 16,
     "name": "Freq",
     "githubrepo": "https://github.com/takshal/freq",
     "author": "TAKSHAL",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 17,
     "name": "Gargs",
     "githubrepo": "https://github.com/brentp/gargs",
     "author": "BRENTP",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 18,
     "name": "Gau",
     "githubrepo": "https://github.com/lc/gau",
     "author": "LC",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 19,
     "name": "Gf",
     "githubrepo": "https://github.com/tomnomnom/gf",
     "author": "tomnomnom",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 20,
     "name": "Github-Search",
     "githubrepo": "https://github.com/gwen001/github-search",
     "author": "GWEN001",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 21,
     "name": "Gospider",
     "githubrepo": "https://github.com/jaeles-project/gospider",
     "author": "JAELES-PROJECT",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 22,
     "name": "Gowitness",
     "githubrepo": "https://github.com/sensepost/gowitness",
     "author": "SENSEPOST",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 23,
     "name": "Goop",
     "githubrepo": "https://github.com/deletescape/goop",
     "author": "DELETESCAPE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 24,
     "name": "GetJS",
     "githubrepo": "https://github.com/003random/getJS",
     "author": "003RANDOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 25,
     "name": "Hakrawler",
     "githubrepo": "https://github.com/hakluke/hakrawler",
     "author": "HAKLUKE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 26,
     "name": "HakrevDNS",
     "githubrepo": "https://github.com/hakluke/hakrevdns",
     "author": "HAKLUKE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 27,
     "name": "Haktldextract",
     "githubrepo": "https://github.com/hakluke/haktldextract",
     "author": "HAKLUKE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 28,
     "name": "Haklistgen",
     "githubrepo": "https://github.com/hakluke/haklistgen",
     "author": "HAKLUKE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 29,
     "name": "Html-tool",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/html-tool",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 30,
     "name": "Httpx",
     "githubrepo": "https://github.com/projectdiscovery/httpx",
     "author": "PROJECTDISCOVERY",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 31,
     "name": "Jaeles",
     "githubrepo": "https://github.com/jaeles-project/jaeles",
     "author": "JAELES-PROJECT",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 32,
     "name": "Jsubfinder",
     "githubrepo": "https://github.com/ThreatUnkown/jsubfinder",
     "author": "THREATUNKOWN",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 33,
     "name": "Kxss",
     "githubrepo": "https://github.com/Emoe/kxss",
     "author": "EMOE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 34,
     "name": "Knoxss",
     "githubrepo": "https://knoxss.me/",
     "author": "KNOXSSME",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 34,
     "name": "LinkFinder",
     "githubrepo": "https://github.com/GerbenJavado/LinkFinder",
     "author": "GERBENJAVADO",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 35,
     "name": "log4j-scan",
     "githubrepo": "https://github.com/fullhunt/log4j-scan",
     "author": "FULLHUNT",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 36,
     "name": "Metabigor",
     "githubrepo": "https://github.com/j3ssie/metabigor",
     "author": "J3SSIE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 37,
     "name": "MassDNS",
     "githubrepo": "https://github.com/blechschmidt/massdns",
     "author": "BLECHSCHMIDT",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 38,
     "name": "Naabu",
     "githubrepo": "https://github.com/projectdiscovery/naabu",
     "author": "PROJECTDISCOVERY",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 39,
     "name": "Notify",
     "githubrepo": "https://github.com/projectdiscovery/notify",
     "author": "PROJECTDISCOVERY",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 40,
     "name": "Paramspider",
     "githubrepo": "https://github.com/devanshbatham/ParamSpider",
     "author": "DEVANSHBATHAM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 41,
     "name": "Qsreplace",
     "githubrepo": "https://github.com/tomnomnom/qsreplace",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 42,
     "name": "Rush",
     "githubrepo": "https://github.com/shenwei356/rush",
     "author": "SHENWEI356",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 43,
     "name": "SecretFinder",
     "githubrepo": "https://github.com/m4ll0k/SecretFinder",
     "author": "M4LL0k",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 44,
     "name": "Shodan",
     "githubrepo": "https://help.shodan.io/command-line-interface/0-installation",
     "author": "SHODAN",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 45,
     "name": "ShuffleDNS",
     "githubrepo": "https://github.com/projectdiscovery/shuffledns",
     "author": "PROJECTDISCOVERY",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 46,
     "name": "SQLMap",
     "githubrepo": "https://github.com/sqlmapproject/sqlmap",
     "author": "SQLMAP-PROJECT",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 47,
     "name": "SubJS",
     "githubrepo": "https://github.com/lc/subjs",
     "author": "LC",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 48,
     "name": "Unew",
     "githubrepo": "https://github.com/dwisiswant0/unew",
     "author": "DWISISWANT0",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 49,
     "name": "Unfurl",
     "githubrepo": "https://github.com/tomnomnom/unfurl",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 50,
     "name": "Urldedupe",
     "githubrepo": "https://github.com/ameenmaali/urldedupe",
     "author": "AMEENMAALI",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 51,
     "name": "WaybackURLs",
     "githubrepo": "https://github.com/tomnomnom/waybackurls",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 52,
     "name": "Wingman",
     "githubrepo": "https://xsswingman.com/#faq",
     "author": "XSSWINGMAN",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 53,
     "name": "Goop",
     "githubrepo": "https://github.com/deletescape/goop",
     "author": "DELETESCAPE",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 54,
     "name": "Tojson",
     "githubrepo": "https://github.com/tomnomnom/hacks/tree/master/tojson",
     "author": "TOMNOMNOM",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 55,
     "name": "X8",
     "githubrepo": "https://github.com/Sh1Yo/x8",
     "author": "SH1YO",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 56,
     "name": "XSStrike",
     "githubrepo": "https://github.com/s0md3v/XSStrike",
     "author": "S0MD3v",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
 },
   {
     "id": 57,
     "name": "Page-fetch",
     "githubrepo": "https://github.com/detectify/page-fetch",
     "author": "DETECTIFY",
-"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/osmidieus.png"
+"img" :"https://camo.githubusercontent.com/dcdf5d05f09b8305b51ec3ed7ccb8b0e41b9efe4ab1e11f09cf168c4b9c5f14a/68747470733a2f2f7777772e746f6f6c7377617463682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f31322f6268617273656e616c2e706e67"
   }
 ]
