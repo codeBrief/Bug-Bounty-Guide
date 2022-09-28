@@ -5,7 +5,7 @@
     "github_repo": "https://github.com/OJ/gobuster",
     "author": "OJ",
     "description": "Directory/File, DNS and VHost busting tool written in Go",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "github_repo": "https://github.com/C-Sto/recursebuster",
     "author": "C-Sto",
     "description": "rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "github_repo": "https://github.com/epi052/feroxbuster",
     "author": "epi052",
     "description": "A fast, simple, recursive content discovery tool written in Rust",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "github_repo": "https://github.com/maurosoria/dirsearch",
     "author": "maurosoria",
     "description": "Web Path Scanner",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "github_repo": "https://github.com/evilsocket/dirsearch",
     "author": "evilsocket",
     "description": "A Go implementation of dirsearch.",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "github_repo": "https://github.com/henshin/filebuster",
     "author": "henshin",
     "description": "An extremely fast and flexible web fuzzer",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "github_repo": "https://github.com/stefanoj3/dirstalk",
     "author": "stefanoj3",
     "description": "Modern alternative to dirbuster/dirb",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "github_repo": "https://github.com/digination/dirbuster-ng",
     "author": "digination",
     "description": "dirbuster-ng is C CLI implementation of the Java dirbuster tool",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "github_repo": "https://github.com/jaeles-project/gospider",
     "author": "jaeles-project",
     "description": "Gospider - Fast web spider written in Go",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "github_repo": "https://github.com/hakluke/hakrawler",
     "author": "hakluke",
     "description": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/adaptive-icon.png"
   }
   
 ]
