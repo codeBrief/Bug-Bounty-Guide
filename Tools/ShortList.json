@@ -1,5 +1,12 @@
 [
   {
+    "id": 0,
+    "name": "uncover",  
+    "githubrepo": "https://github.com/projectdiscovery/uncover",
+    "author": "projectdiscovery",
+"img" :"https://raw.githubusercontent.com/SoufianeAmed/Bug-Bounty-Guide/main/tools_images/80974091.png"
+},
+  {
     "id": 1,
     "name": "Amass",  
     "githubrepo": "https://github.com/OWASP/Amass",
