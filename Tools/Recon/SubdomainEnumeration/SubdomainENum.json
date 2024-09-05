@@ -248,27 +248,27 @@
     "img": ""  
   },
   {
-    "id": "30",
-    "name": "sub3suite",
-    "github_repo": "https://github.com/3nock/sub3suite",
-    "author": "3nock",
-    "description": " A research-grade suite of tools for subdomain enumeration, intelligence gathering and attack surface mapping",
+    "id": "32",
+    "name": "shosubgo",
+    "github_repo": "https://github.com/incogbyte/shosubgo",
+    "author": "incogbyte",
+    "description": "Small tool to Grab subdomains using Shodan api",
     "img": ""  
   },
   {
-    "id": "30",
-    "name": "sub3suite",
-    "github_repo": "https://github.com/3nock/sub3suite",
-    "author": "3nock",
-    "description": " A research-grade suite of tools for subdomain enumeration, intelligence gathering and attack surface mapping",
+    "id": "33",
+    "name": "haktrails",
+    "github_repo": "https://github.com/hakluke/haktrails",
+    "author": "hakluke",
+    "description": "Golang client for querying SecurityTrails API data",
     "img": ""  
   },
   {
-    "id": "30",
-    "name": "sub3suite",
-    "github_repo": "https://github.com/3nock/sub3suite",
-    "author": "3nock",
-    "description": " A research-grade suite of tools for subdomain enumeration, intelligence gathering and attack surface mapping",
+    "id": "34",
+    "name": "bbot",
+    "github_repo": "https://github.com/blacklanternsecurity/bbot",
+    "author": "blacklanternsecurity",
+    "description": " A recursive internet scanner for hackers",
     "img": ""  
   }
 ]
